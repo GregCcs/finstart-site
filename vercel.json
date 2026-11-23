@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    { "source": "/finstart-freelance", "destination": "/#freelances", "permanent": true },
+    { "source": "/finstart-entreprise", "destination": "/#entreprises", "permanent": true },
+    { "source": "/finstart-cabinet", "destination": "/#cabinets", "permanent": true },
+    { "source": "/mentions-legales", "destination": "/#mentions-legales", "permanent": true },
+    { "source": "/finstart-cgu", "destination": "/#cgu", "permanent": true }
+  ]
+}
